@@ -6,5 +6,8 @@ Gen AI Experiments - What you will find in this GitHub Repo
 - Example of finetuned LIama2 models on low-end GPUs
 - Notebook to Finetune Google's Gemma Model
 - Example Notebook to use Gemma + RAG using MongoDB as primary Vector Store
+- Example Notebook for RAG with Open AI's endpoint, Astra Vector Database and Streamlit User Interface
+
+For Huggingface models/datasets, please check - https://huggingface.co/theLeaf1 
 
 Note - I have curated and modified all code here for personal use as needed. Credit is due for the original code to respective authors/organizations. 
